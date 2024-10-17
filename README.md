@@ -90,5 +90,14 @@ echo `"<html><body><h1>Welcome to Habib's Web Application hosted in Azure VM</h1
 
 **Open a web browser and navigate to http://`<public-ip-address>` to see your web application**  
 
-![image](https://github.com/user-attachments/assets/ee6416d1-2800-4eb5-9160-d28ac288b5e9)
+![image](https://github.com/user-attachments/assets/36729c5e-a8fa-47ed-8f0e-ab0d0669b8be)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+***Azure Portal Overview***  
+***the following screenshot from Azure Portal shows all the resources associated with my web application deployment. This overview provides a comprehensive look at the virtual machine, network security group, and other relevant resources that have been created during the setup process.***  
+
+![image](https://github.com/user-attachments/assets/578dd8c5-e6e4-4169-95f3-751c8954d30e)
+
 
